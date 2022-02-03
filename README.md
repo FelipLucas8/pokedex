@@ -6,5 +6,5 @@ para requisitar os dados de uma API(https://pokeapi.co/), no caso as imagens e o
 pelo o usuário.
 ![wartortle](https://user-images.githubusercontent.com/85259501/152269696-fc9e7ff7-87f0-4b9e-9945-635be13aeded.gif)
   Projeto com o propósito de estudo das tecnologias JavaScript, HTML e CSS. :D.
-![charmander_shiny](https://user-images.githubusercontent.com/85259501/152269528-449d49f8-fce8-45b1-ae7f-608b4a9fe834.gif)
+
 
